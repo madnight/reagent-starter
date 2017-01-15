@@ -11,6 +11,8 @@
                  [reagent "0.4.3"]
                  [reagent-utils "0.1.0"]
                  [jayq "2.5.2"]
+                 [cljs-http "0.1.42"]
+                 [cljs-ajax "0.5.8"]
                  [org.clojure/clojurescript "0.0-2511" :scope "provided"]
                  [leiningen "2.5.0"]]
 
